@@ -10,6 +10,13 @@ List of learning, and other good stuff
 * [the Serious Computer Vision Blog](https://computervisionblog.wordpress.com/)
 * [AI Skack](http://aishack.in/)
 * [情報学広場：情報処理学会](https://ipsj.ixsq.nii.ac.jp/ej/)
+* [GitXiv](http://www.gitxiv.com)
+* [Augmented Reality](https://prateekvjoshi.com/2012/08/02/augmented-reality/)
+* [Probabilistic Randomness Of Stochasticity](https://prateekvjoshi.com/2012/07/26/probabilistic-randomness-of-stochasticity/)
+* [An Interactive Guide To The Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
+* [PROJECTIVE GEOMETRY](http://www.scienceofcorrespondences.com/projective-geometry.htm)
+* [PRINCIPAL COMPONENT ANALYSIS IN 6 STEPS](https://coolstatsblog.com/2015/03/21/principal-component-analysis-explained/)
+
 ## Wikipedia resources
 * [List of mathematical symbols](https://en.wikipedia.org/wiki/List_of_mathematical_symbols)
 * [Rotation matrix](https://en.wikipedia.org/wiki/Rotation_matrix)
@@ -63,6 +70,7 @@ List of learning, and other good stuff
 * [A simple explanation of Naive Bayes Classification](http://stackoverflow.com/questions/10059594/a-simple-explanation-of-naive-bayes-classification)
 * [Drawing rectangle or line using mouse events in open cv using python](http://stackoverflow.com/questions/22140880/drawing-rectangle-or-line-using-mouse-events-in-open-cv-using-python)
 * [Binary robust independent elementary features (“BRIEF”) understanding](https://dsp.stackexchange.com/questions/1305/binary-robust-independent-elementary-features-brief-understanding)
-## Sample CV project
+## Sample project
 * [Markerless Augmented Reality](http://users.csc.calpoly.edu/~zwood/teaching/csc572/final11/geddingt/)
+* [Smooth Panorama Stitching With Lie Algebras](http://pages.cs.wisc.edu/~lizhang/courses/cs766-2008f/projects/mosaic/students/mikola/)
 
