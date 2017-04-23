@@ -2,4 +2,5 @@
 List of learning, and other good stuff
 
 ## Japanese
-* [List](http://j-nihongo.com/kaigaaru/)
+### j-nihongo
+* [〜甲斐がある](http://j-nihongo.com/kaigaaru/)
