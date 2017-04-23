@@ -1,6 +1,22 @@
 # my-awesome-list
 List of learning, and other good stuff
 
+## New resources for the past 30 days
+* [Automatic Upright Adjustment of Photographs With Robust Camera Calibration](http://ieeexplore.ieee.org/document/6587711/?denied)
+* [Rectification of planar targets using line segments](https://link.springer.com/article/10.1007/s00138-016-0807-1)
+* [Estimating the focal length of a photo from EXIF tags](http://phototour.cs.washington.edu/focal.html)
+* [Dissimilarity-based Sparse Subset Selection](https://arxiv.org/pdf/1407.6810.pdf)
+* [A geometric interpretation of the covariance matrix](http://www.visiondummy.com/2014/04/geometric-interpretation-covariance-matrix/)
+* [the Serious Computer Vision Blog](https://computervisionblog.wordpress.com/)
+* [AI Skack](http://aishack.in/)
+* [情報学広場：情報処理学会](https://ipsj.ixsq.nii.ac.jp/ej/)
+## Wikipedia resources
+* [List of mathematical symbols](https://en.wikipedia.org/wiki/List_of_mathematical_symbols)
+* [Rotation matrix](https://en.wikipedia.org/wiki/Rotation_matrix)
+* [AKAZE特徴量の紹介と他特徴量との比較](http://poly.hatenablog.com/entry/2014/01/06/063012)
+* [ECCV2012で発表されたKAZE局所特徴量を試してみた](http://daily.belltail.jp/?p=1352)
+
+
 ## Japanese
 ### j-nihongo (日本語例文)
 * [〜甲斐がある](http://j-nihongo.com/kaigaaru/)
@@ -20,6 +36,10 @@ List of learning, and other good stuff
 * [Binary Feature comparison](https://www.cs.unc.edu/~jheinly/publications/eccv2012-heinly.pdf)
 * [Online Learning of Patch Perspective Rectification for Efficient Object Detection](http://campar.in.tum.de/personal/hinterst/index/project/CVPR08.pdf)
 * [Learning real-time Prespective patch rectification](http://cvlabwww.epfl.ch/~lepetit/papers/hinterstoisser_ijcv10.pdf)
+* [Deeper understanding of the homography decomposition for vision-based contro](https://hal.archives-ouvertes.fr/file/index/docid/174739/filename/RR-6303.pdf)
+* [Practical Planar Metric Rectification](https://pdfs.semanticscholar.org/d9db/8fe72f14d17e40f0967785f1a1a4724966c9.pdf?_ga=1.239100551.546000381.1480911089)
+* [Homography-Based Planar Mapping and Tracking for Mobile Phones](https://pdfs.semanticscholar.org/d608/be8c80dc8ab048e7fec7ad4c31adc3cc944d.pdf)
+* [Pose Estimation for Augmented Reality: A Hands-On Survey](https://hal.inria.fr/hal-01246370/file/survey-ieee-v2.pdf)
 ## Lecture resource
 * [COS 429 - Computer Vision](http://www.cs.princeton.edu/courses/archive/fall16/cos429/outline.html)
 * [Structure from Motion](http://mi.eng.cam.ac.uk/~cipolla/publications/contributionToEditedBook/2008-SFM-chapters.pdf)
@@ -42,6 +62,7 @@ List of learning, and other good stuff
 ## Stackoverflow
 * [A simple explanation of Naive Bayes Classification](http://stackoverflow.com/questions/10059594/a-simple-explanation-of-naive-bayes-classification)
 * [Drawing rectangle or line using mouse events in open cv using python](http://stackoverflow.com/questions/22140880/drawing-rectangle-or-line-using-mouse-events-in-open-cv-using-python)
+* [Binary robust independent elementary features (“BRIEF”) understanding](https://dsp.stackexchange.com/questions/1305/binary-robust-independent-elementary-features-brief-understanding)
 ## Sample CV project
 * [Markerless Augmented Reality](http://users.csc.calpoly.edu/~zwood/teaching/csc572/final11/geddingt/)
 
