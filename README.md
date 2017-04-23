@@ -46,6 +46,16 @@ An overview of invariant interest point detectors, how they evolved over time, h
 
 An archive for CV course from Princeton University.
 
+* [Structure from Motion](http://mi.eng.cam.ac.uk/~cipolla/publications/contributionToEditedBook/2008-SFM-chapters.pdf)
+
+A long lecture note on structure from motion.
+
+## Machine learning resources
+
+* [Decision Tree - Classification](http://www.saedsayad.com/decision_tree.htm)
+
+General discussion, example of building up decision tree.
+
 ## Math-related resources
 
 * [simple supervised learning part 3: should i read it? the naive bayes method](http://matpalm.com/rss.feed/p3/)
