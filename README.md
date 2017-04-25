@@ -25,6 +25,8 @@ List of learning, and other good stuff
 
 
 ## Japanese
+### にほんごのページ
+* [にほんごのページ](http://web.ydu.edu.tw/~uchiyama/)
 ### j-nihongo (日本語例文)
 * [〜甲斐がある](http://j-nihongo.com/kaigaaru/)
 * [～かねない](http://j-nihongo.com/kanenai/)
