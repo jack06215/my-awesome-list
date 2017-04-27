@@ -17,6 +17,8 @@ List of learning, and other good stuff
 * [PROJECTIVE GEOMETRY](http://www.scienceofcorrespondences.com/projective-geometry.htm)
 * [PRINCIPAL COMPONENT ANALYSIS IN 6 STEPS](https://coolstatsblog.com/2015/03/21/principal-component-analysis-explained/)
 * [Will People Like Your Image?](http://patwie.com/#implementations)
+* [VALSE -  视觉与学习青年学者研讨会](http://valser.org/)
+* [VALSE Archive](http://vision.ouc.edu.cn/valse/)
 
 ## Wikipedia resources
 * [List of mathematical symbols](https://en.wikipedia.org/wiki/List_of_mathematical_symbols)
