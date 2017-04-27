@@ -16,6 +16,7 @@ List of learning, and other good stuff
 * [An Interactive Guide To The Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
 * [PROJECTIVE GEOMETRY](http://www.scienceofcorrespondences.com/projective-geometry.htm)
 * [PRINCIPAL COMPONENT ANALYSIS IN 6 STEPS](https://coolstatsblog.com/2015/03/21/principal-component-analysis-explained/)
+* [Will People Like Your Image?](http://patwie.com/#implementations)
 
 ## Wikipedia resources
 * [List of mathematical symbols](https://en.wikipedia.org/wiki/List_of_mathematical_symbols)
