@@ -28,6 +28,7 @@ List of learning, and other good stuff
 
 
 ## Japanese
+[Jisho.org](http://jisho.org/)
 ### にほんごのページ
 * [にほんごのページ](http://web.ydu.edu.tw/~uchiyama/)
 ### j-nihongo (日本語例文)
