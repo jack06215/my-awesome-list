@@ -1,6 +1,3 @@
-# my-awesome-list
-List of learning, and other good stuff
-
 ## New resources for the past 30 days
 * [Automatic Upright Adjustment of Photographs With Robust Camera Calibration](http://ieeexplore.ieee.org/document/6587711/?denied)
 * [Rectification of planar targets using line segments](https://link.springer.com/article/10.1007/s00138-016-0807-1)
