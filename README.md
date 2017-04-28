@@ -26,7 +26,7 @@
 
 
 ## Japanese
-[Jisho.org](http://jisho.org/)
+* [Jisho.org](http://jisho.org/)
 ### にほんごのページ
 * [にほんごのページ](http://web.ydu.edu.tw/~uchiyama/)
 ### j-nihongo (日本語例文)
