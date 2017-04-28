@@ -16,12 +16,13 @@
 * [Will People Like Your Image?](http://patwie.com/#implementations)
 * [VALSE -  视觉与学习青年学者研讨会](http://valser.org/)
 * [VALSE Archive](http://vision.ouc.edu.cn/valse/)
+* [AKAZE特徴量の紹介と他特徴量との比較](http://poly.hatenablog.com/entry/2014/01/06/063012)
+* [ECCV2012で発表されたKAZE局所特徴量を試してみた](http://daily.belltail.jp/?p=1352)
 
 ## Wikipedia resources
 * [List of mathematical symbols](https://en.wikipedia.org/wiki/List_of_mathematical_symbols)
 * [Rotation matrix](https://en.wikipedia.org/wiki/Rotation_matrix)
-* [AKAZE特徴量の紹介と他特徴量との比較](http://poly.hatenablog.com/entry/2014/01/06/063012)
-* [ECCV2012で発表されたKAZE局所特徴量を試してみた](http://daily.belltail.jp/?p=1352)
+
 
 
 ## Japanese
