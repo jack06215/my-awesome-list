@@ -23,6 +23,8 @@
 * https://engineering.purdue.edu/kak/computervision/ECE661.08/homework/HW5_LM_handout.pdf
 * https://www.codeproject.com/articles/55691/neural-network-learning-by-the-levenberg-marquardt.aspx
 * http://ufldl.stanford.edu/tutorial/supervised/LinearRegression/
+* https://www.cs.duke.edu/courses/fall15/compsci527/notes/
+
 
 ## Wikipedia resources
 * [List of mathematical symbols](https://en.wikipedia.org/wiki/List_of_mathematical_symbols)
