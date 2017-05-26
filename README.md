@@ -30,7 +30,7 @@
 * [List of mathematical symbols](https://en.wikipedia.org/wiki/List_of_mathematical_symbols)
 * [Rotation matrix](https://en.wikipedia.org/wiki/Rotation_matrix)
 * [Equation of conic](https://en.wikipedia.org/wiki/Conic_section#General_Cartesian_form)
-* [Matrix representation of conics] (https://en.wikipedia.org/wiki/Matrix_representation_of_conic_sections)
+* [Matrix representation of conics](https://en.wikipedia.org/wiki/Matrix_representation_of_conic_sections)
 
 
 ## Japanese
